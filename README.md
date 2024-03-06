@@ -1,6 +1,19 @@
 ### Hi there 👋
 
+Salut et bienvenue sur mon profil. Je suis un développeur web, passioné par les 🔫 jeux/séries de stratégies 🔫 et par 💻 l'informatique 💻.
+
+Motivé pour me dépasser dans le Dev Web 🚀, c'est fou à quel point même dans ce domaine on apprend par la pratique et par nos erreurs, ce côté "step-up" est ultra intéressant pour moi.
+
+![alt text](https://tenor.com/search/age-of-empires-gifs)
+
 <!--
+
+
+Salut et bienvenue sur mon profil. Je suis un développeur web, passioné par les jeux/séries de stratégies et par l'informatique.
+
+Motivé pour me dépasser dans le Dev Web, c'est fou à quel point même dans ce domaine on apprend par la pratique et par nos erreurs, ce côté "step-up" est ultra intéressant pour moi.
+
+
 **jawedBouta/jawedBouta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
