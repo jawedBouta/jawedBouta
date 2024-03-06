@@ -5,7 +5,7 @@ Salut et bienvenue sur mon profil. Je suis un développeur web, passioné par le
 Motivé pour me dépasser dans le Dev Web 🚀, c'est fou à quel point même dans ce domaine on apprend par la pratique et par nos erreurs, ce côté "step-up" est ultra intéressant pour moi.
 
 <div align="center">
-    ![GIF Exemple](https://media.tenor.com/SloiaUvvlT4AAAAM/age-of-empires-age-of-empires2.gif)
+    <img src="https://media.tenor.com/SloiaUvvlT4AAAAM/age-of-empires-age-of-empires2.gif)" alt="">
 </div>
 
 
