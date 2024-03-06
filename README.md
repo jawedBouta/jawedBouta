@@ -1,4 +1,6 @@
-### Hi there 👋
+<hr />
+Introduction
+<hr />
 
 Salut et bienvenue sur mon profil. Je suis un développeur web, passioné par les 🔫 jeux/séries de stratégies 🔫 et par 💻 l'informatique 💻.
 
@@ -7,6 +9,7 @@ Motivé pour me dépasser dans le Dev Web 🚀, c'est fou à quel point même da
 <div align="center">
     <img src="https://media.tenor.com/SloiaUvvlT4AAAAM/age-of-empires-age-of-empires2.gif)" alt="">
 </div>
+
 
 
 <!--
